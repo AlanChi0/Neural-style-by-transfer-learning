@@ -10,3 +10,11 @@ In this project, I'll implement the [paper](https://arxiv.org/pdf/1603.08155.pdf
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155.pdf%7C)
 
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+
+# Examples:
+
+###
+![](examples/content/Loin.jpg)
+![](examples/style/Flower.jpg)
+![](examples/output/Lion Flower style.jpg)
+
