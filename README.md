@@ -14,8 +14,8 @@ In this project, I'll implement the [paper](https://arxiv.org/pdf/1603.08155.pdf
 # Examples:
 
 ###
-<img src="examples/content/Loin.jpg" width=100 height=100 />
-![](examples/content/Loin.jpg)
-![](examples/style/Flower.jpg)
-![](examples/output/Lion-Flower-style.png)
+<img src="examples/content/Loin.jpg" width=256 height=256 />
+<img src="examples/style/Flower.jpg" width=256 height=256 />
+<img src="examples/output/Lion-Flower-style.png" width=256 height=256 />
+
 
