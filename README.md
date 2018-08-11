@@ -16,4 +16,5 @@ In this project, I'll implement the [paper](https://arxiv.org/pdf/1603.08155.pdf
 ###
 <img src="examples/content/Loin.jpg" width=256 height=256 /> <img src="examples/style/Flower.jpg" width=256 height=256 /> <img src="examples/output/Lion-Flower-style.png" width=256 height=256 />
 
-<img src="examples/content/Alan.jpg" width=256 height=256 /> <img src="examples/style/lion-of-zion-leonid-afremov.jpg" width=256 height=256 /> <img src="examples/results/Alan-lion-style.png" width=256 height=256 />
+
+<img src="examples/content/Alan.jpg" width=256 height=300 /> <img src="examples/style/lion-of-zion-leonid-afremov.jpg" width=256 height=300 /> <img src="examples/results/Alan-lion-style.png" width=256 height=300 />
